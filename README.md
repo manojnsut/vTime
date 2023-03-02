@@ -19,7 +19,7 @@ A realtime web based chat application, where multiple users can create separate 
   <img src="https://github.com/manojnsut/vTime/blob/main/Preview/1.PNG" />
 </p>
 
-#### *Any user can share their location to other users by a single click.*
+#### *Any user can share their location to other users by a single click option.*
 
 <p float="left">
   <img src="https://github.com/manojnsut/vTime/blob/main/Preview/2.PNG"/>
